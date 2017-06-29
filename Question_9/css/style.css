@@ -1,0 +1,15 @@
+.fixIt{
+	width: 500px;
+	margin: 0 auto;
+	vertical-align: bottom;	
+	margin-top: 200px;
+
+	}
+@media only screen and (max-width: 768px) {
+    .fixIt{
+    	margin-top: 0px;   	
+
+	}
+}
+
+
